@@ -4,7 +4,7 @@ In this project, I implement recommendation systems.<br/>
 
 **Instructions for how to run and use the code:**
 
- Install the following packages: 
+ Install the following package: 
   ```
 pip install pandas
   ```
